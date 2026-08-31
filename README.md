@@ -50,4 +50,10 @@ Recently led a small engineering team through a Laravel build at Jobss.ai — tu
 [Personal Website](https://sagarmsraozil.github.io/)
 
 
-Happy to talk about a role, a project, or why your build is slow.
+Happy to talk about a role.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagarmsraozil/sagarmsraozil/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagarmsraozil/sagarmsraozil/output/github-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sagarmsraozil/sagarmsraozil/output/github-snake.svg">
+</picture>
