@@ -5,7 +5,6 @@
 ```
 📍  Melbourne, VIC · full working rights in Australia
 💼  Open to Software Engineer roles — full-stack, frontend or backend · permanent or contract
-🎓  MIT (Software Engineering), Victorian Institute of Technology
 ```
 
 ---
