@@ -36,9 +36,7 @@ Two things I've learnt so far.
 
 **One task at a time.** I run Claude Code with herdr and Kun Chen's [firstmate](https://github.com/kunchenguid/firstmate), where you talk to one agent and it hands work to the rest. Once I had several subagents running in parallel across terminal panels, I kept losing track of which panel was doing what. So I wrote kaizen, a skill that keeps an agent on one task at a time. The name comes from kaizen, which is where I learnt that rule.
 
-My own skills sit on top of [Matt Pocock's](https://github.com/mattpocock/skills), which I install globally.
-
-I'm still early at this. I learn by turning articles into step-by-step manuals for myself. Two I've done are Kun Chen's [Your AGENTS.md is a Neural Net](https://blog.kunchenguid.com/p/your-agentsmd-is-a-neural-net) and Gregor Ojstersek's [write-up of how the Codex tech lead works](https://newsletter.eng-leadership.com/p/how-openai-codex-tech-lead-does-ai).
+I'm still early at this.
 
 ---
 
