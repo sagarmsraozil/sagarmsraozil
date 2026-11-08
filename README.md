@@ -1,6 +1,6 @@
 # Sagar Mishra
 
-Software engineer in Melbourne. I got into inventory software by losing stock.
+Software engineer in Melbourne.
 
 I used to run a small anime-apparel business. Stock kept going missing because I counted quantities instead of recording each movement. I didn't know that was the difference until it had happened a few times. Nexus, Aroma and now e-warehouse all come out of that.
 
